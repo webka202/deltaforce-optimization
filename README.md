@@ -1,1 +1,1 @@
-Run this app as Administrator permission
+Run this app with Administrator permission
