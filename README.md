@@ -2,7 +2,7 @@
 
 One-click service control, RAM cleanup and anti-stutter boost for Delta Force on Windows. English / 한국어 interface.
 
-![Delta Force Optimization]
+[Delta Force Optimization]
 
 ## Quick start
 
@@ -43,13 +43,16 @@ AMD has no supported command-line automation, so the app shows in-app guidance i
 - Administrator rights
 - Delta Force installed at the default launcher path above for the Launch button
 
+## SmartScreen & antivirus false positives
+
+The app is **currently unsigned**, so Windows and some antivirus engines may warn about it.
+
+- **SmartScreen** ("Windows protected your PC"): click **More info**, then **Run anyway**.
+- **Antivirus** may flag it as a false positive
+
 ## Safety
 
 - **No registry keys are written at any point.** All changes use `powercfg`, `nvidia-smi` and documented Windows APIs.
 - The app never disables antivirus and never force-kills tasks.
 - If the process is force-killed, timer resolution resets automatically on reboot; the power plan stays active until you switch it back.
 - Stopping services is reversible — use Start all to bring everything back at any time.
-
-## Contact
-
-Bug reports, suggestions or permission requests: **icy_vibe** on Discord.
