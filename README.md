@@ -6,7 +6,7 @@ One-click service control, RAM cleanup and anti-stutter boost for Delta Force on
 
 ## Quick start
 
-1. Download `DeltaForce Optimization v1.1.0.0.exe`
+1. Download `DeltaForce Optimization v1.1.0.exe`
 2. Run it — accept the UAC prompt (administrator rights are required)
 3. No installation needed
 
