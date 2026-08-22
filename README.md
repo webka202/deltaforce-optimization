@@ -6,7 +6,7 @@ One-click service control, RAM cleanup and anti-stutter boost for Delta Force on
 
 ## Quick start
 
-1. Download `DeltaForce Optimization v1.1.0.exe`
+1. Download `DeltaForce Optimization v1.2.0.exe`
 2. Run it — accept the UAC prompt (administrator rights are required)
 3. No installation needed
 
@@ -17,6 +17,7 @@ One-click service control, RAM cleanup and anti-stutter boost for Delta Force on
 | **Service control** | Grid of 61 services commonly disabled for gaming. Start/stop per service or all at once; running services are listed first. |
 | **OPTIMIZATION** | Big one-click button: stops all configured services, flushes RAM, then shows exactly how much memory was freed. |
 | **PERFORMANCE BOOST** | Anti-stutter pack in one pass. |
+| **Junk Cleaner** | Clean junk files in one click. |
 | **RESTORE** | Reverts everything PERFORMANCE BOOST changed. Also runs automatically when the app is closed. |
 | **Find issues** | Searches today's Application event log for Critical/Error events mentioning Delta Force, with a one-click Google search per result. |
 | **Launch Delta Force** | Starts the game from `C:\Delta Force\launcher\df_launcher_global.exe` |
